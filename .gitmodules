@@ -79,3 +79,6 @@
 [submodule "DBGPavim"]
 	path = DBGPavim
 	url = https://github.com/brookhong/DBGPavim
+[submodule "syntastic"]
+	path = syntastic
+	url = git://git@github.com/euoia/syntastic
