@@ -1,0 +1,81 @@
+[submodule "vim-javascript"]
+	path = vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
+[submodule "vim-fugitive"]
+	path = vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule "vim-jsbeautify-simple"]
+	path = vim-jsbeautify-simple
+	url = https://github.com/euoia/vim-jsbeautify-simple
+[submodule "vim-less"]
+	path = vim-less
+	url = https://github.com/groenewege/vim-less.git
+[submodule "toggle_maximize.vim"]
+	path = toggle_maximize.vim
+	url = https://github.com/euoia/toggle_maximize.vim.git
+[submodule "syntastic"]
+	path = syntastic
+	url = https://github.com/scrooloose/syntastic.git
+[submodule "taglist.vim"]
+	path = taglist.vim
+	url = https://github.com/vim-scripts/taglist.vim.git
+[submodule "mru.vim"]
+	path = mru.vim
+	url = https://github.com/vim-scripts/mru.vim
+[submodule "FuzzyFinder"]
+	path = FuzzyFinder
+	url = https://github.com/vim-scripts/FuzzyFinder.git
+[submodule "vim-colorschemes"]
+	path = vim-colorschemes
+	url = https://github.com/flazz/vim-colorschemes.git
+[submodule "nerdtree"]
+	path = nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "bufexplorer.zip"]
+	path = bufexplorer.zip
+	url = https://github.com/vim-scripts/bufexplorer.zip.git
+[submodule "L9"]
+	path = L9
+	url = https://github.com/vim-scripts/L9
+[submodule "summerfruit256.vim"]
+	path = summerfruit256.vim
+	url = https://github.com/baeuml/summerfruit256.vim
+[submodule "matchit.zip"]
+	path = matchit.zip
+	url = https://github.com/vim-scripts/matchit.zip
+[submodule "sessionman.vim"]
+	path = sessionman.vim
+	url = https://github.com/vim-scripts/sessionman.vim.git
+[submodule "vim-nodejs-complete"]
+	path = vim-nodejs-complete
+	url = https://github.com/myhere/vim-nodejs-complete.git
+[submodule "ag.vim"]
+	path = ag.vim
+	url = https://github.com/rking/ag.vim
+[submodule "vim-markdown"]
+	path = vim-markdown
+	url = https://github.com/tpope/vim-markdown
+[submodule "keepcase.vim"]
+	path = keepcase.vim
+	url = https://github.com/vim-scripts/keepcase.vim
+[submodule "ctrlp.vim"]
+	path = ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim
+[submodule "nerdcommenter"]
+	path = nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "vim-snippets"]
+	path = vim-snippets
+	url = https://github.com/honza/vim-snippets
+[submodule "euoia-vim-snippets"]
+	path = euoia-vim-snippets
+	url = git@github.com:euoia/vim-snippets.git
+[submodule "YouCompleteMe"]
+	path = YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe
+[submodule "ultisnips"]
+	path = ultisnips
+	url = https://github.com/SirVer/ultisnips
+[submodule "vim-mustache-handlebars"]
+	path = vim-mustache-handlebars
+	url = https://github.com/mustache/vim-mustache-handlebars
