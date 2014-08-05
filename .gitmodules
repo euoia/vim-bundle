@@ -13,9 +13,6 @@
 [submodule "toggle_maximize.vim"]
 	path = toggle_maximize.vim
 	url = https://github.com/euoia/toggle_maximize.vim.git
-[submodule "syntastic"]
-	path = syntastic
-	url = https://github.com/scrooloose/syntastic.git
 [submodule "taglist.vim"]
 	path = taglist.vim
 	url = https://github.com/vim-scripts/taglist.vim.git
