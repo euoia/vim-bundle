@@ -1,84 +1,112 @@
 [submodule "vim-javascript"]
 	path = vim-javascript
 	url = https://github.com/pangloss/vim-javascript.git
+	branch = master
 [submodule "vim-fugitive"]
 	path = vim-fugitive
 	url = https://github.com/tpope/vim-fugitive
+	branch = master
 [submodule "vim-jsbeautify-simple"]
 	path = vim-jsbeautify-simple
 	url = https://github.com/euoia/vim-jsbeautify-simple
+	branch = master
 [submodule "vim-less"]
 	path = vim-less
 	url = https://github.com/groenewege/vim-less.git
+	branch = master
 [submodule "toggle_maximize.vim"]
 	path = toggle_maximize.vim
 	url = https://github.com/euoia/toggle_maximize.vim.git
+	branch = master
 [submodule "taglist.vim"]
 	path = taglist.vim
 	url = https://github.com/vim-scripts/taglist.vim.git
+	branch = master
 [submodule "mru.vim"]
 	path = mru.vim
 	url = https://github.com/vim-scripts/mru.vim
+	branch = master
 [submodule "FuzzyFinder"]
 	path = FuzzyFinder
 	url = https://github.com/vim-scripts/FuzzyFinder.git
+	branch = master
 [submodule "vim-colorschemes"]
 	path = vim-colorschemes
 	url = https://github.com/flazz/vim-colorschemes.git
+	branch = master
 [submodule "nerdtree"]
 	path = nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
+	branch = master
 [submodule "bufexplorer.zip"]
 	path = bufexplorer.zip
 	url = https://github.com/vim-scripts/bufexplorer.zip.git
+	branch = master
 [submodule "L9"]
 	path = L9
 	url = https://github.com/vim-scripts/L9
+	branch = master
 [submodule "summerfruit256.vim"]
 	path = summerfruit256.vim
 	url = https://github.com/baeuml/summerfruit256.vim
+	branch = master
 [submodule "matchit.zip"]
 	path = matchit.zip
 	url = https://github.com/vim-scripts/matchit.zip
+	branch = master
 [submodule "sessionman.vim"]
 	path = sessionman.vim
 	url = https://github.com/vim-scripts/sessionman.vim.git
+	branch = master
 [submodule "vim-nodejs-complete"]
 	path = vim-nodejs-complete
 	url = https://github.com/myhere/vim-nodejs-complete.git
+	branch = master
 [submodule "ag.vim"]
 	path = ag.vim
 	url = https://github.com/rking/ag.vim
+	branch = master
 [submodule "vim-markdown"]
 	path = vim-markdown
 	url = https://github.com/tpope/vim-markdown
+	branch = master
 [submodule "keepcase.vim"]
 	path = keepcase.vim
 	url = https://github.com/vim-scripts/keepcase.vim
+	branch = master
 [submodule "ctrlp.vim"]
 	path = ctrlp.vim
-	url = https://github.com/kien/ctrlp.vim
+	url = https://github.com/ctrlpvim/ctrlp.vim
+	branch = master
 [submodule "nerdcommenter"]
 	path = nerdcommenter
 	url = https://github.com/scrooloose/nerdcommenter.git
+	branch = master
 [submodule "vim-snippets"]
 	path = vim-snippets
 	url = https://github.com/honza/vim-snippets
+	branch = master
 [submodule "euoia-vim-snippets"]
 	path = euoia-vim-snippets
-	url = git@github.com:euoia/vim-snippets.git
+	url = git://github.com/euoia/vim-snippets.git
+	branch = master
 [submodule "YouCompleteMe"]
 	path = YouCompleteMe
 	url = https://github.com/Valloric/YouCompleteMe
+	branch = master
 [submodule "ultisnips"]
 	path = ultisnips
 	url = https://github.com/SirVer/ultisnips
+	branch = master
 [submodule "vim-mustache-handlebars"]
 	path = vim-mustache-handlebars
 	url = https://github.com/mustache/vim-mustache-handlebars
+	branch = master
 [submodule "DBGPavim"]
 	path = DBGPavim
 	url = https://github.com/brookhong/DBGPavim
+	branch = master
 [submodule "syntastic"]
 	path = syntastic
-	url = git://git@github.com/euoia/syntastic
+	url = https://github.com/euoia/syntastic
+	branch = master
