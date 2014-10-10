@@ -26,10 +26,6 @@
 	path = mru.vim
 	url = https://github.com/vim-scripts/mru.vim
 	branch = master
-[submodule "FuzzyFinder"]
-	path = FuzzyFinder
-	url = https://github.com/vim-scripts/FuzzyFinder.git
-	branch = master
 [submodule "vim-colorschemes"]
 	path = vim-colorschemes
 	url = https://github.com/flazz/vim-colorschemes.git
